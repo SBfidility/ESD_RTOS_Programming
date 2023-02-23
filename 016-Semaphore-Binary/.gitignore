@@ -1,0 +1,5 @@
+/Debug/*
+/Debug_*/*
+/Release/*
+/Release_*/*
+*.launch
